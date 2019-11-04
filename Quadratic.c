@@ -1,7 +1,7 @@
 /*C 
 Program to Find all Roots of a Quadratic Equation
 This program accepts coefficients of a quadratic equation from the user and displays the roots 
-(both real and complex roots depending upon the discriminant ).
+(both real and complex roots depending upon the discriminant )
 */
 
 #include <stdio.h>
