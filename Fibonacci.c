@@ -1,7 +1,7 @@
 /*
 C Program to Display Fibonacci Sequence
 Example on how to display the Fibonacci sequence of first n numbers (entered by the user) using loop.
-Also in different example, you learn to generate the Fibonacci sequence up to a certain number
+Also in different example, you learn to generate the Fibonacci sequence up to a certain number.
 */
 
 #include <stdio.h>
