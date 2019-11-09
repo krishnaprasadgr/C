@@ -3,7 +3,7 @@ C Program to Check Armstrong Number
 Example to check whether an integer (entered by the user) is an Armstrong number or not using while loop and if...else statement.
 
 In case of an Armstrong number of 3 digits, the sum of cubes of each digits is equal to the number itself. For example:
-153 = 1*1*1 + 5*5*5 + 3*3*3  // 153 is an Armstrong number.
+153 = 1*1*1 + 5*5*5 + 3*3*3  // 153 is an Armstrong number
 
 */
 
